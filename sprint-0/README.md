@@ -2,7 +2,7 @@
 
 🎥 Watch the walkthrough: [YouTube] https://youtu.be/HGSWS33dtfQ
 
-💼 Follow the project on LinkedIn: [LinkedIn post](your-linkedin-post-link-here)
+💼 Follow the project on LinkedIn: [LinkedIn post] https://lnkd.in/p/gd9gf4VB
 
 This sprint covered:
 - Market research and competitor comparison (Trello, Asana, Jira)
