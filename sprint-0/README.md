@@ -1,6 +1,6 @@
 # Sprint 0 — Research & Proposal
 
-🎥 Watch the walkthrough: [YouTube](your-youtube-link-here)
+🎥 Watch the walkthrough: [YouTube] https://youtu.be/HGSWS33dtfQ
 
 💼 Follow the project on LinkedIn: [LinkedIn post](your-linkedin-post-link-here)
 
